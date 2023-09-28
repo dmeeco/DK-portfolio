@@ -1,5 +1,5 @@
 ---
-title: "Catch Up"
+title: "Catch-up"
 summary: "Sometimes it's hard to keep in touch with friends and family. I made this app to remind me to schedule a call if we haven't talked in a while."
 image: /images/catch-up.jpg
 imageAlt: "Screenshot of Catch Up app"

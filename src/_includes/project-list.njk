@@ -1,0 +1,7 @@
+<section class="projects">
+  <div class="project-list">
+    {% asyncEach project in collections.projects %}
+      {% include "project-card.njk" %}
+    {% endeach %}
+  </div>
+</section>
