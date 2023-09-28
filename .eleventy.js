@@ -5,7 +5,7 @@ async function imageShortcode(src, alt, sizes) {
     widths: [300, 800, null],
     formats: ["avif", "jpeg"],
     urlPath: "/images/",
-    outputDir: "./public/images/"
+    outputDir: "./dist/images/"
   });
 
   let imageAttributes = {
@@ -31,7 +31,7 @@ module.exports = function (eleventyConfig) {
   return {
     dir: {
       input: "src",
-      output: "public"
+      output: "dist"
     }
   };
 };
