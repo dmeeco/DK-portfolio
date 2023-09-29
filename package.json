@@ -1,7 +1,7 @@
 {
   "name": "eleventy-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "A portfolio site built with [Eleventy](https://www.11ty.dev/).",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
